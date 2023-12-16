@@ -5,7 +5,6 @@ import HeroBanner from '../components/HeroBanner';
 import SearchExcercise from '../components/SearchExcercise.js';
 import Excercises from '../components/Excercises';
 
-
 const Home = () => {
   return (
     <Box>
@@ -16,4 +15,5 @@ const Home = () => {
   )
 }
 
-export default Home
+
+export default Home;
